@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "brand": "SatoshiDev",
+    "ldplayer_instance": 0,
+    "drive_folder_id": "YOUR_DRIVE_FOLDER_ID_HERE",
+    "caption_file": "satoshidev.txt",
+    "post_interval_hours": 24
+  },
+  {
+    "id": 2,
+    "brand": "PatentevelocE",
+    "ldplayer_instance": 1,
+    "drive_folder_id": "YOUR_DRIVE_FOLDER_ID_HERE",
+    "caption_file": "patenteveloce.txt",
+    "post_interval_hours": 24
+  },
+  {
+    "id": 3,
+    "brand": "tihatradito",
+    "ldplayer_instance": 2,
+    "drive_folder_id": "YOUR_DRIVE_FOLDER_ID_HERE",
+    "caption_file": "tihatradito.txt",
+    "post_interval_hours": 24
+  }
+]
